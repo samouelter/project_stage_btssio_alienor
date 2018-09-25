@@ -1,2 +1,4 @@
-# project_stage_btssio_alienor
-Développement de l'application web concernant la gestion de stages dans l'établissement de formation d'Aliénor d'Aquitaine à Poitiers
+gestion_stage
+=============
+
+A Symfony project created on September 11, 2018, 8:33 am.
